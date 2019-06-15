@@ -1,0 +1,14 @@
+{
+  "name": "nodeactivity",
+  "version": "1.0.0",
+  "description": "Ivan A Martinez-Arias Node-Express Acitivity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ivan Martinez-Arias",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
